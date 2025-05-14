@@ -1,0 +1,36 @@
+{
+    "total_posts": 550,
+    "flagged_posts": 125,
+    "percent_unsafe": 22.73,
+    "common_reasons": {
+        "High toxicity or flagged keyword": 125
+    },
+    "sample_flagged_posts": [
+        {
+            "post_id": "cde51b30-dc85-4dd4-8e40-e27070a1ea62",
+            "post_text": "hate this so much, can't believe it!",
+            "reason": "High toxicity or flagged keyword"
+        },
+        {
+            "post_id": "dbd2c187-9f39-4a43-a03e-01bf081e6251",
+            "post_text": "hate this so much, can't believe it!",
+            "reason": "High toxicity or flagged keyword"
+        },
+        {
+            "post_id": "4026c965-e111-4852-91f9-0d1876f1755a",
+            "post_text": "this person is so dumb, lol.",
+            "reason": "High toxicity or flagged keyword"
+        },
+        {
+            "post_id": "aa9bece5-0d66-4037-8b09-b8f3d21bd419",
+            "post_text": "this person is so dumb, lol.",
+            "reason": "High toxicity or flagged keyword"
+        },
+        {
+            "post_id": "238fc260-18a4-4df0-b20c-604777ed4c42",
+            "post_text": "hate this so much, can't believe it!",
+            "reason": "High toxicity or flagged keyword"
+        }
+    ],
+    "overall_safety_thoughts": "Moderation required for unsafe content. Consider stricter keyword checks or image analysis if needed."
+}

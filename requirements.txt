@@ -1,0 +1,21 @@
+# Core
+pandas==1.5.3
+numpy==1.23.5
+
+# Text Analysis
+torch==1.13.1
+transformers==4.22.1
+detoxify==0.5.1
+textblob==0.17.1
+vaderSentiment==3.3.2
+
+# Visualization (Optional for report/EDA)
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# For CLI scripts
+argparse==1.4.0
+
+# (Optional) Image analysis tools, if you plan to extend
+opencv-python==4.8.0.76
+Pillow==9.4.0
